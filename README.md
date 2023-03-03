@@ -11,7 +11,6 @@ This Interface has to be ...
 
 1. lightweight, because of the hardware constraints of the Raspberry Pi
 2. adaptible, because there are many features to be implemented
-3.
 
 ## Features
 
